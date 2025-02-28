@@ -32,7 +32,6 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer"> <img src="(https://github.com/aarushi126/aarushi126/blob/main/Alteryx_logo.svg)" alt="Alteryx" width="40" height="40"/> </a>
 </p>
 
 
