@@ -1,5 +1,22 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"  />
+</div>
 
-![MasterHead](https://github.com/aarushi126/aarushi126/blob/main/banner.png)
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/aarushi-nagpure/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> </a>
+  <a href="mailto:nagpureaarushi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aarushi126.aarushi126&"  />
+</div>
 
 <h1 align="center">Hi 👋, I'm Aarushi Nagpure</h1>
 <h3 align="center">A passionate Data Engineer & Data Analyst</h3>
@@ -8,16 +25,8 @@
 </br></br>
 - 👩‍🎓 MS CE grad from The University Of Texas at Dallas
 - 🌱 I’m currently learning **Azure, Docker and ETL pipeline building**
-
-<!-- - 👨‍💻 All of my projects are available at [abc](abc) -->
 - 📫 How to reach me **nagpureaarushi@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19RtqW4yvIKM7OXNvQbg3ETUq3lPw0Ltt/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aarushi-nagpure/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya-singh-29ba3220b/" height="30" width="40" /></a>
-<a href="https://instagram.com/aarushi_nagpure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aarushi_nagpure" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -49,3 +58,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- - 👨‍💻 All of my projects are available at [abc](abc) -->
