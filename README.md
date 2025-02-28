@@ -1,5 +1,5 @@
 ## Hi there 👋
-![MasterHead]()
+![MasterHead](https://github.com/aarushi126/aarushi126/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Aarushi Nagpure</h1>
 <h3 align="center">A passionate Data Engineer & Data Analyst</h3>
