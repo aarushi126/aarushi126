@@ -24,7 +24,7 @@
 
 </br></br>
 - 👩‍🎓 MS CE grad from The University Of Texas at Dallas
-- 🌱 I’m currently learning **Azure, Docker and ETL pipeline building**
+- 🌱 I’m currently learning **AWS(S3, Redshift, Athena, Glue) and ETL pipeline building**
 - 📫 How to reach me **nagpureaarushi@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19RtqW4yvIKM7OXNvQbg3ETUq3lPw0Ltt/view?usp=sharing)
 
